@@ -4,5 +4,5 @@
 #### 1. Create a folder and open cmd in that folder root.
 #### 2. Execute the following command.
 
-```git clone <b>https://github.com/varshavigasini080/login-signup-page.git<b>```
+```git clone https://github.com/varshavigasini080/login-signup-page.git```
 
